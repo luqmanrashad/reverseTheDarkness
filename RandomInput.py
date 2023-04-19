@@ -4,7 +4,7 @@
 import random
 import turtle
 wn = turtle.Screen() # window screen using turtle
-wn.title("Flip Zero's") # title of window
+wn.title("reverseTheDarkness") # title of window
 wn.bgcolor("white") # background color
 wn.setup(800, 600) # screen size
 wn.tracer(0) # lets us speed up games and doesn't let screen update
